@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: magenta;
+}
+
+p {
+    color: greenyellow
+}
+
+h2,
+h3,
+h4,
+h5 {
+    color: cyan
+}
+
+form {
+    background-color: maroon;
+}
